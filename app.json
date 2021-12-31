@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "dan-gu",
+  "description": "dan-gu",
   "keywords": [
-    "vmess or vles"
+    "dan-gu"
   ],
   "env": {
     "PROTOCOL": {
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/tri6yk65ti/vm-dan-gu",
+  "repository": "https://github.com/tri6yk65ti/vm-dan-gu",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
